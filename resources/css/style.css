@@ -1,0 +1,15 @@
+body{
+    min-height: 900px;
+    min-width: 800px;
+}
+.Herosection{
+    background-color:#DEB887;
+    text-align: center; 
+    padding-top: 2rem;
+    padding-left: 5rem 3rem;
+}
+.container{
+    background-color: antiquewhite;
+    padding-top: 1rem;
+    max-width: 1500px;
+}
